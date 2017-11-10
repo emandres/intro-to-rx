@@ -1,0 +1,11 @@
+{
+  "name": "intro-to-rx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^5.5.2",
+    "systeminformation": "^3.33.3",
+    "ws": "^3.3.1"
+  }
+}
